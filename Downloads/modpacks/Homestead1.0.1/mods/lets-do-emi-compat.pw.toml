@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] EMI Compat"
+filename = "emi-letsdo-compat-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7e85bc6caee50633fa9cf29003fd465ba6a1457"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6109539
+project-id = 1063821

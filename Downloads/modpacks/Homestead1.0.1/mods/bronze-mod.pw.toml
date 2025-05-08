@@ -1,0 +1,13 @@
+name = "Bronze"
+filename = "bronze-1.0.13+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "295e3c12c28eb36f3774861d9bb3f62830bbf77b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6055745
+project-id = 1010300

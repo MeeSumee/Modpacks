@@ -1,0 +1,13 @@
+name = "Polymorphic Tom's Simple Storag"
+filename = "polymorphic-tom-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ada432aa98ad5812353d53f147234e4314cd9a79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5970139
+project-id = 1151978

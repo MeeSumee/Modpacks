@@ -1,0 +1,13 @@
+name = "Data Anchor"
+filename = "Data_Anchor-fabric-1.20.1-1.0.0.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9198c63f827f2844d2350db0d62edcc40c2a53e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6497464
+project-id = 1203668

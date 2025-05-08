@@ -1,0 +1,13 @@
+name = "Cooked Carrots [Fabric/Forge/NeoForge]"
+filename = "cookedcarrots-1.20.1-0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5dfd35b95fab9ead8f6ebea4fabeeb479f25866b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4620729
+project-id = 615985
