@@ -1021,10 +1021,6 @@ file = "config/jade/sort-order.json"
 hash = "48e3eda87b0bd954eb6428d5f8158e3a6110534f7cbcf10f346d3c3ba1c611e4"
 
 [[files]]
-file = "config/jade/usernamecache.json"
-hash = "c28bb598e45ab3e6ba103d82dae277423791aeeac93daf05146bf27b96313fdf"
-
-[[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -2892,6 +2888,36 @@ hash = "5372b7626e4561e7a6bc5666c63c1dda90e3ceec727edebc4c96a584dd2ba70f"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "a1b0cc10058f3edaf9f39424d39cc910a535c5006f57c85834cff0ce7a86fd44"
+metafile = true
+
+[[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "e9de43692ebf479315a611d3dc5c332c7bd8163daf77b507cba47f843a03eb4d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "0ecc01cccbeb605112e074ecccebbfc9d0ef16a34636bebafb982123f6bdc212"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "b075b2e48e20130ee1679aa511ccae269689e4e0084c7a58bcdb57b36d6cd270"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "8c16d26d5b9bb03da0982af0d7ff7e2aaba6b91e99ab39e5f5b49fc52b1159cf"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "5e705846974b110889772a144bfea048fd253f4186c42b59fe9e2b94d43c41ad"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "76420e3af4ea4b1a770f33741ebc6ed4d4acd92ff549017b9b452a806353360e"
 metafile = true
@@ -3520,6 +3546,11 @@ metafile = true
 [[files]]
 file = "mods/qraftyfied-6.jar"
 hash = "c28711aef090694945b27d790c0903631cfbf31a9bfadb3d48e4b801f90e6dac"
+
+[[files]]
+file = "mods/quests-additions-fabric.pw.toml"
+hash = "44136ff02e06aef5861c9c672fb3932fe4a4c45fa03057d68d7f352e1d76cabf"
+metafile = true
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
