@@ -1,0 +1,13 @@
+name = "TFC Cast Iron Grill"
+filename = "CastIronGrill-1.20.1-2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b660868007c166ae9a8f0e07a9eb586165dee869"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5677434
+project-id = 694279

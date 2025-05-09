@@ -1,0 +1,13 @@
+name = "Blaze Map"
+filename = "BlazeMap-1.20.1-0.7.5-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "767e56f825ce65b6f3687644571caeba791d7976"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6132384
+project-id = 626527

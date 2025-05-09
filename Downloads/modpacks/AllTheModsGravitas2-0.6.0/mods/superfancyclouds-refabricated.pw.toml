@@ -1,0 +1,13 @@
+name = "SuperFancyClouds: Rearchitected"
+filename = "sfcr-1.7.6-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1fc34cfad163aa5fe334665f0f47e5ac5f340c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4644245
+project-id = 820317

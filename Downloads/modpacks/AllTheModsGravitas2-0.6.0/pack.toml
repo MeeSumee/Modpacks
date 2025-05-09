@@ -1,0 +1,13 @@
+name = "All The Mods - Gravitas²"
+author = "ATMTeam"
+version = "0.6.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "313e805eac1112349324055f0fa8afeb99abf197f39b05732beb83754af9b42b"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"

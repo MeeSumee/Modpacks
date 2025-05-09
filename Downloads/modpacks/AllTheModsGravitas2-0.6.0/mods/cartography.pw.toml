@@ -1,0 +1,13 @@
+name = "Cartography"
+filename = "Cartography-1.20.1-0.5.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c0f55e12faa2d4647ec238538df06711daf0109"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6132840
+project-id = 520973
