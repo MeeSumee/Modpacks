@@ -2525,8 +2525,8 @@ hash = "988e9479eac0b01a341fd98228866a46ea5414574b704d1560dbbbcbc939200a"
 metafile = true
 
 [[files]]
-file = "mods/cool-rain.pw.toml"
-hash = "45aec8eb0cbed351de75349ff5bd31c6aebeffafbf76be8b1ccd98fe546c9a1b"
+file = "mods/coolrain-1.1.0-1.20.1.jar"
+hash = "177DC0CF4A0E0550838398CCACBEC3E0C5687833596C7AE20313C813B405416E"
 metafile = true
 
 [[files]]
